@@ -1,0 +1,188 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Alexei CONDURACHI</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Alexei</a></h1>
+						<nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="pictures.html">Pictures</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+						<img src="images/avatar.jpg" alt="Avatar" class="avatar"><br>
+							<h2>Alexei Condurachi</h2>
+							<p>Hi, I am Alexei. Welcome to my personal page!<br>
+							Currently I am writing my Thesis for my Master in Mathematics @<a href="https://www.ku.dk/english/">KU</a>.
+						</div>
+						<a href="#one" class="more scrolly">More About Me</a>
+					</section>
+				<!-- Education -->
+					<section id="one" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Education</h2>
+								<p>As I have finished my exams (hurray!), I am working on my Thesis' project on DeFi and AMMs.<br>
+									Below there are some more details about my academic background</p>
+							</header>
+							<ul class="features">
+								<li class="icon solid fa-university">
+									<h3>University of Copenhagen<br>2020- Ongoing</h3>
+									<h6>Master of Science in Mathematics</h6>
+									<p>Thesis' project: study of different Automated Market Makers in the ecosystem of Decentralized Finance.<hr>  
+									Coursework: Data-Driven Financial Models, Finance 2: Dynamic Portfolio, Applied Probability, 
+									Advanced Probability Theory 1&2, Topics in Non-Life Insurance, etc.</p>
+								</li>
+								<li class="icon solid fa-user-graduate">
+									<h3>University of Parma<br>2017-2020</h3>
+									<h6>Bachelor of Science in Mathematics</h6>
+									<p> Thesis in Numerical Analysis: I have implemented Kulkarni's optimized algorithm for Fredholm second kind integral's equations (I swear is not as scary as it may sound).<hr>
+										Coursework: Numerical Analysis, Financial Mathematics, Linear and Statistical Optimization, etc.
+									</p>
+								</li>			
+							</ul>
+							<p>You can find more details in my <a href="files/CV CONDURACHI.pdf" target="_blank">CV</a>.</p>
+						</div>
+					</section>
+				<!-- One -->
+					<section id="two" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Projects</h2>
+								<p>Below there are some project I have taken part into (some of them are in Italian, sorry about that!).</p>
+							</header>
+						</div>
+					</section>					
+					
+				<!-- Projects List -->
+				
+					<section id="three" class="wrapper alt style1">
+					<section class="spotlight">
+							<div class="image"><a href="files/Data_Driven_Financial.pdf" target="_blank"><img src="images/data_driven_financial.jpg" alt="" /></a></div><div class="content">
+								<h2>Financial Models</h2>
+								<p>We have build optimal portfolios made by a certain list of assets based on data that we have collected from the Yahoo! Finance database. 
+								This let us study and compare how predictions based on historical data would have performed against the real outcomes of markets' changes.
+								We then focused on understanding how would one need to act in order to keep up with price changes and what would that imply on portfolio's composition.
+								Alongside this we also have done a study on real world bonds and what the optimal strategy would be for an optimal portfolio of such.
+								The project has undergone a very strict review as it was the starting point for one of my exams at Københavns Universitet.<br>
+								This has been a project that made finally possible for me to connect several of my passions: financial analysis, mathematical modeling and coding.<br>
+								If you are interested to read the report, click <a href="files/Data_Driven_Financial.pdf" target="_blank">this</a>.</p>
+								</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><a href="files/XM.pdf" target="_blank"><img src="images/ulam.jpg" alt="" /></a></div><div class="content">
+								<h2>Ulam numbers</h2>
+								<p>I never thought that a mathematician could make experiments like a physicist, but it turns out I was completely wrong. Since I have attended
+								the course in Experimental Mathematics I have a completely view on how one could solve mathematical problems and open questions.<br>
+								This is what we have done in the project on Ulam numbers: we have tried several approaches to check for patterns and possible correlations
+								in the sequence. By looking for patterns through pixel plotting, studying cluster's distribution and more specifically what would happen if we use 
+								Ulam numbers as coefficients for Fourier's series we tried to come up with an indication for theoretical results.<br>								
+								I hope this made your jaw drop, as it did with me. If you want to know more click <a href="files/XM.pdf" target="_blank">here</a>.</p>
+								</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><a href="files/Galerkin.pdf" target="_blank"><img src="images/galerkin.jpg" alt="" /></a></div><div class="content">
+								<h2>Galerkin methods</h2>
+								<p>As a final project for my Numerical Analysis course I was have prepared a report about Galerkin methods for Partial Differential Equations (PDEs). 
+								Usually this topic is discussed at a Master's level, but I have undertook it as a preparation for my Bachelor Thesis on Kulkarni method.<br>
+								In addition to a theoretical discussion, I have also implemented Matlab code as well as various examples to showcase algorithm's strenghts and limitations.<br>
+								<a href="files/Galerkin.pdf" target="_blank">Here</a> you can find the document in Italian.</p>
+								</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><a href="files/Swine_Influenza.pdf" target="_blank"><img src="images/epidemiology.jpg" alt="" /></a></div><div class="content">
+								<h2>Swine Influenza</h2>
+								<p>In this project we have studied the several outcomes possible of a swine influenza epidemic amongst wild boars. 
+								This work has been done whilst the pandemic was in its early stages and I have to confess that it revealed to be very helpful in understanding many of the political decisions taken on the basis of studies similar (and of course more in depth) to this one.<br>
+								All the simulation have been carried out once again in the Matlab environment, even if most of the analysis was made on paper since it was purly mathematical.<br>
+								Click <a href="files/Swine_Influenza.pdf" target="_blank">here</a> to open the report.</p>
+							</div>
+						</section>
+					
+				<!-- Passions -->
+					<section id="four" class="wrapper style2 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Passions</h2>
+								<p>These are the things I like outside the academic world.</p>
+							</header>
+						</div>
+					</section>		
+				<!-- Passions List -->
+					<section id="five" class="wrapper alt style2">
+						<section class="spotlight">
+							<div class="image"><img src="images/computer.jpg" alt="" /> <caption>Photo by <a href="https://unsplash.com/@lorenzoherrera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lorenzo Herrera</a> on <a href="https://unsplash.com/s/photos/computers?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+							</caption></div><div class="content">
+								<h2>What am I interested in?</h2>
+								<p>I think of myself as a curious person that tries to be updated on a plethora of things,
+								but what tickels this side of me the most is IT. I love being informed about the latest technologies and innovations, it does not really matter what
+								topic it is related. I guess it is because I am constantly let speechless by what we can achieve and what we can create thanks to those breakthroughs.</p>
+								</div>
+						</section>
+						<section class="spotlight">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+								<h2>Other passions</h2>
+								<p>In my free time I love taking pictures, walking around and admiring the beautiful architecture that surrounds me.</p>
+							</div>
+						</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/alexei-condurachi-492538b4/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="mailto:alex.condurachi@email.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://www.instagram.com/alexeicondurachi/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+
+						</ul>
+						<ul class="copyright">
+							<li>&copy; Alexei Condurachi</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							<li>Updated: <script type="text/javascript">updated = new Date(document.lastModified)
+							month=updated.getMonth()+1
+							document.writeln(month+"/" +updated.getDate()+ "/" + updated.getFullYear())</script></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script type="javascript">updated= new Date(document.lastModified)</script>
+			
+
+
+	</body>
+</html>
